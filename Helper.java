@@ -1,7 +1,7 @@
 public class Helper {
 
-    public static void display(String msg) {
-        System.out.println(msg);
+    public static void display(String msg, String from) {
+        System.out.println(msg + " from " + from + " class");
     }
 
 }
