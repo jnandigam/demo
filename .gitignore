@@ -1,0 +1,15 @@
+# ignore Java class files
+*.class
+
+# ignore log files
+*.log
+
+# ignore all files in bin folder
+bin/
+
+# ignore system file on MacOS
+.DS_Store
+
+# VS Code specific folder
+.vscode/
+
